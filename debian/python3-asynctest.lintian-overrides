@@ -1,0 +1,4 @@
+python3-asynctest: copyright-without-copyright-notice
+python3-asynctest: initial-upload-closes-no-bugs
+python3-asynctest: no-manual-page
+python3-asynctest: zero-byte-file-in-doc-directory
