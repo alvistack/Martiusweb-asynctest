@@ -1,0 +1,5 @@
+python-asynctest source: file-without-copyright-information
+python-asynctest source: no-debian-changes
+python-asynctest source: source-contains-prebuilt-windows-binary
+python-asynctest source: source-is-missing
+python-asynctest source: source-package-encodes-python-version
